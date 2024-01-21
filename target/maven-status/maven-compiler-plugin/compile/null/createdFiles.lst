@@ -1,0 +1,8 @@
+br\com\service\ClientService.class
+META-INF\panache-archive.marker
+br\com\exception\MessageError.class
+br\com\resource\ClientResource.class
+br\com\exception\BusinessException.class
+br\com\exception\GeneralException.class
+br\com\domain\ClientEntity.class
+br\com\repository\ClientRepository.class
